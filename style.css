@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading {
+    text-align: center;
+    margin: 20px auto;
+}
+
+table {
+    margin: 20px auto;
+}
+
+table, 
+th, 
+td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 10px;
+}
+

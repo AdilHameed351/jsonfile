@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "name": "Fahad",
+            "age": 30,
+            "gender": "Male",
+            "email": "computers123@gmail.com",
+            "hobbies": ["Cricket", "Badminton"]
+        },
+        {
+            "name": "Umair",
+            "age": 22,
+            "gender": "Male",
+            "email": "rainbow111@gmail.com",
+            "hobbies": ["Travelling", "Reading"]
+        },
+        {
+            "name": "Harris",
+            "age": 27,
+            "gender": "Male",
+            "email": "json12345@gmail.com",
+            "hobbies": ["Gardening", "Table Tennis"]
+        }
+    ]
+    
+}
